@@ -1,5 +1,5 @@
 
-# Climate Exercises (NIWA)
+# Climate Exercises
 
 This repository consists of a functions and scripts that have been developed for a skills challenge.
 The modules used in the script are imported only at the top of the script. 
